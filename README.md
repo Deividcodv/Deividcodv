@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Deivid!</h1>
 
 <p align="center">
-  🌱 Beginner Developer | 🐍 Python Enthusiast | 💾 Learning SQL | 🌐 Web Design Explorer  
+  🌱 Beginner Developer | 🐍 Python Enthusiast | 💾 Learning SQL and Data Science | 🌐 Web Design Explorer  
 </p>
 
 ---

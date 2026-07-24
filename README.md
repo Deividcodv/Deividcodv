@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Deivid!</h1>
 
 <p align="center">
-  🌱 Beginner Developer | 🐍 Python Enthusiast | 💾 Learning SQL and Data Science | 🌐 Web Design Explorer  
+   💾 Learning SQL and Data Science 
 </p>
 
 ---
@@ -19,9 +19,7 @@ My goal is to grow as a developer, one project at a time.
 | 💻 Language / Tool | 🔥 Skill Level | 📝 Focus |
 |--------------------|----------------|----------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python | ⭐⭐ | Writing scripts, loops, and simple projects |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> SQL | ⭐ | Practicing queries, joins, and filtering data |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> HTML | ⭐⭐ | Structuring pages and content |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> CSS | ⭐ | Styling layouts and colors |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> SQL | ⭐⭐ | Practicing queries, joins, and filtering data |
 
 ---
 
